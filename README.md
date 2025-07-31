@@ -1,5 +1,8 @@
 # Custom-Neural-Network
 
+kaggle競賽連結：
+https://www.kaggle.com/t/1ffdaef7ffcd4d22aa21eb401e7ac947
+
 HW1 將同時在 e3 與 kaggle 平台進行。請同學參考課堂所學，使用 PyTorch 自行設計神經網路模型，並僅使用 kaggle 提供的訓練資料(training data)來訓練模型參數，不得使用其他資料集進行 pretrain 或 fine-tune 等等。最後，請使用訓練後的模型來預測測試資料(testing data)的類別標籤。
 
 
